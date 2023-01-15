@@ -5,7 +5,7 @@
 - 📫 (How to reach me ...) you may send mail tom my email address which is jagadeesh_2k17@proton.me .
 - 💬 You may ask me about (...) HTML, JavaScript, React JS, CSS
 - 🧔‍♂️ My age is 26
-- 💻 Look at my Portfolio ...
+- 💻 Look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
 
 <!---
 Jagadeesh-Kumar-Initial-Is-S/Jagadeesh-Kumar-Initial-Is-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
