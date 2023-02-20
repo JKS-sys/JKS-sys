@@ -5,7 +5,7 @@
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS .
 - 🧔‍♂️ My age is 26
 - 💻 You may look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
-- My resume is on https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf
+- My resume or CV or curriculum vitae is on https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf
 
 <!---
 Jagadeesh-Kumar-Initial-Is-S/Jagadeesh-Kumar-Initial-Is-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
