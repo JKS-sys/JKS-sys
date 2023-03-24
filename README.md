@@ -4,7 +4,7 @@
 
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
 
-  <h1>Hi, I’m Jagadeesh Kumar . S</h1>
+  <h1>👋 Hello, I’m Jagadeesh Kumar . S</h1>
     
 </div>
 <br/>
@@ -15,7 +15,7 @@
  <!-- ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net) -->
 
  
-- 👋 Hello, I’m Jagadeesh Kumar . S
+<!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
 - 👀 I’m interested in getting a good job at this moment.
 - 🌱 I’m currently learning Full Stack Development Bootcamp at this moment.
 - 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me .
