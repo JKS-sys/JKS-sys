@@ -26,12 +26,15 @@
 - 💻 You may look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
 - My resume or CV or curriculum vitae is on https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf
 
-<!-- <a href="https://www.linkedin.com/in/Jagadeesh-Kumar-Initial-Is-S">
+<!-- <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>  -->
 <a href="mailto:jagadeesh_2k17@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
+<!-- <a href="https://www.sololearn.com/profile/6832164">
+  <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
+</a> -->
 
 <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
 
