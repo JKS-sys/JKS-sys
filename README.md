@@ -79,16 +79,19 @@
 <p align="center">
 <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-Kumar-Initial-Is-S&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
-  
+</p>  
 <hr/>
 
+<p align="center">
 <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S">
 <img width="49%" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeesh-Kumar-Initial-Is-S&theme=dark&theme=black-ice&stroke=0000" /></a>
-
+</p>  
 <hr/>
 
+<p align="center">
 <a href ="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-Kumar-Initial-Is-S&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+</p>  
 <hr/>
 
 <!---
