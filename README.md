@@ -12,7 +12,7 @@
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS)
- ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
+ <!-- ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net) -->
 
  
 - 👋 Hello, I’m Jagadeesh Kumar . S
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>  -->
 <a href="mailto:jagadeesh_2k17@proton.me">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
 <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
