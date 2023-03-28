@@ -22,7 +22,7 @@
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS .
 - 🧔‍♂️ My age is 26
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
-- 👨‍🏭 **Computer Applications Graduate** and **Full Stack Developer** 
+- 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
 - 💻 You may look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
 - My resume or CV or curriculum vitae is on https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf
 
