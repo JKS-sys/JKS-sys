@@ -24,7 +24,7 @@
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
 - 💻 You may look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
-- My resume or CV or curriculum vitae is on https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf
+- My resume or CV or curriculum vitae is on [https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf](https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./blob/main/Resume-2%20pages.pdf)
 
 <!-- <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
