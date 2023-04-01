@@ -12,7 +12,7 @@
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS)
- <!-- ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net) -->
+![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg)
 
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
@@ -24,12 +24,12 @@
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
 - 💻 You may look at my Portfolio on https://jagadeesh-kumar-with-initial-as-s.netlify.app/
-- My resume or CV or curriculum vitae is on [https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./raw/main/Resume-2%20pages.pdf](https://github.com/Jagadeesh-Kumar-Initial-Is-S/My-Curriculum-Vita-CV-Resume./blob/main/Resume-2%20pages.pdf)
+- My resume or CV or curriculum vitae is on https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing .
 
 <!-- <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>  -->
-<a href="mailto:jagadeesh_2k17@proton.me">
+<a href="mailto:jagadeesh_2k17@proton.me" target = "_blank">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 <!-- <a href="https://www.sololearn.com/profile/6832164">
