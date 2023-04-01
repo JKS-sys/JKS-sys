@@ -26,8 +26,8 @@ Visitor Count:
 - 🧔‍♂️ My age is 26
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
-- 💻 You may look at my Portfolio on <a href = 'https://jagadeesh-kumar-with-initial-as-s.netlify.app/' target = '_blank'>https://jagadeesh-kumar-with-initial-as-s.netlify.app/</a>
-- My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing' taarget = '_blank'>https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing</a> .
+- 💻 You may look at my Portfolio on <a href = 'https://jagadeesh-kumar-with-initial-as-s.netlify.app/' target = '_blank'>jagadeesh-kumar-with-initial-as-s.netlify.app/</a>
+- My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing' target = '_blank'>drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing</a> .
 
 <!-- <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -76,26 +76,26 @@ Visitor Count:
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S"><img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-Kumar-Initial-Is-S&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jagadeesh-Kumar-Initial-Is-S"/></a>
+<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-Kumar-Initial-Is-S&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jagadeesh-Kumar-Initial-Is-S"/></a>
 </p>
 
 <hr/>
 
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github">
+<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github" target = '_blank'>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-Kumar-Initial-Is-S&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 </p>  
 <hr/>
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S">
+<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" target = '_blank'>
 <img width="49%" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeesh-Kumar-Initial-Is-S&theme=dark&theme=black-ice&stroke=0000" /></a>
 </p>  
 <hr/>
 
 <p align="center">
-<a href ="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github">
+<a href ="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github" target = '_blank'>
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-Kumar-Initial-Is-S&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>  
 <hr/>
