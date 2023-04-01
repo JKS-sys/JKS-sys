@@ -11,7 +11,7 @@
 
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS) -->
 
 <!-- visitor count -->
 Visitor Count: 
