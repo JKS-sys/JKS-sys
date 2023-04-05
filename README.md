@@ -14,7 +14,7 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS) -->
 
 <!-- visitor count -->
-Visitor Count: 
+Profile Visit Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg)
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
