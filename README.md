@@ -4,7 +4,7 @@
 
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
 
-  <h1>👋 Hello, I’m Jagadeesh Kumar . S</h1>
+  <h1>👋 Hello, My name's Jagadeesh Kumar . S</h1>
     
 </div>
 <br/>
