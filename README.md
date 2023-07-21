@@ -28,9 +28,9 @@ Profile Visit Count:
 - 💻 You may look at my Portfolio on <a href = 'https://jagadeesh-kumar-with-initial-as-s.netlify.app/' target = '_blank'>jagadeesh-kumar-with-initial-as-s.netlify.app/</a>
 - My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing' target = '_blank'>drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing</a> .
 
-<!-- <a href="">
+ <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
- </a>  -->
+ </a>
 <a href="mailto:jagadeesh_2k17@proton.me" target = "_blank" />
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
