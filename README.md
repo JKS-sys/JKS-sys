@@ -2,7 +2,7 @@
 <div id="header" align="center">
  
 
-  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
+  <!-- <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/> -->
 
   <h1>👋 Hello, my name's Jagadeesh Kumar . S</h1>
     
@@ -38,7 +38,7 @@ Profile Visit Count:
   <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
 </a> -->
 
-<img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+<!-- <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" /> -->
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -81,11 +81,11 @@ Profile Visit Count:
 <hr/>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github" target = '_blank'>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-Kumar-Initial-Is-S&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 </p>  
-<hr/>
+<hr/> -->
 
 <p align="center">
 <a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" target = '_blank'>
