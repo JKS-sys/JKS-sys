@@ -75,7 +75,7 @@ Profile Visit Count:
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-Kumar-Initial-Is-S&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jagadeesh-Kumar-Initial-Is-S"/></a>
+<a href="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-Kumar-With-Initial-As-S&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jagadeesh-Kumar-With-Initial-As-S"/></a>
 </p>
 
 <hr/>
@@ -88,14 +88,14 @@ Profile Visit Count:
 <hr/> -->
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" target = '_blank'>
-<img width="49%" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeesh-Kumar-Initial-Is-S&theme=dark&theme=black-ice&stroke=0000" /></a>
+<a href="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" target = '_blank'>
+<img width="49%" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeesh-Kumar-With-Initial-As-S&theme=dark&theme=black-ice&stroke=0000" /></a>
 </p>  
 <hr/>
 
 <p align="center">
-<a href ="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github" target = '_blank'>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-Kumar-Initial-Is-S&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<a href ="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" target = '_blank'>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-Kumar-With-Initial-As-S&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>  
 <hr/>
 
