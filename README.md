@@ -19,7 +19,7 @@ Profile Visit Count:
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
 - 👀 I’m interested in getting a good job at this moment.
-- 🌱 I’m currently learning Full Stack Development Bootcamp at this moment.
+- 🌱 I’m a Full Stack Developer.
 - 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me .
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS .
 - 🧔‍♂️ My age is 26
