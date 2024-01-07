@@ -22,10 +22,11 @@ Profile Visit Count:
 - 🌱 I’m a Full Stack Developer.
 - 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me .
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS .
-- 🧔‍♂️ My age is 26
+- 🧔‍♂️ My age is 27
+- 🧔‍♂️ My gender is male
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
-- 💻 You may look at my Portfolio on <a href = 'https://jagadeesh-kumar-with-initial-as-s.netlify.app/' target = '_blank'>jagadeesh-kumar-with-initial-as-s.netlify.app/</a>
+- 💻 You may look at my Portfolio on <a href = 'https://portfolios.selvam-instruments.com' target = '_blank'>https://portfolios.selvam-instruments.com</a>
 - My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing' target = '_blank'>drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing</a> .
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
