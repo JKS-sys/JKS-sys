@@ -18,7 +18,7 @@ Profile Visit Count:
 ![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg)
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
-- My mobile number is +917397285837
+- You may contact me through my mobile number which is +917397285837
 - 👀 I’m interested in getting a good job at this moment.
 - 🌱 I’m a Full Stack Developer.
 - 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me 
