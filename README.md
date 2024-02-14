@@ -18,10 +18,11 @@ Profile Visit Count:
 ![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg)
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
+- My mobile number is +917397285837
 - 👀 I’m interested in getting a good job at this moment.
 - 🌱 I’m a Full Stack Developer.
-- 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me .
-- 💬 You may ask me about HTML, JavaScript, React JS, CSS .
+- 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me 
+- 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
 - 🧔‍♂️ My age is 27
 - 🧔‍♂️ My gender is male
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
