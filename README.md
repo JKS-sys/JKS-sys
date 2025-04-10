@@ -21,20 +21,24 @@ Profile Visit Count:
 - You may contact me through my mobile number which is +917397285837
 - 👀 I’m interested in getting a good job at this moment.
 - 🌱 I’m a Full Stack Developer.
-- 📫 You may send mail tom my email address which is jagadeesh_2k17@proton.me 
+- 📫 You may send mail tom my email address which is 33x23@pm.me 
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
 - 🧔‍♂️ My age is 27
 - 🧔‍♂️ My gender is male
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
-- 💻 You may look at my Portfolio on <a href = 'https://portfolios.selvam-instruments.com' target = '_blank'>https://portfolios.selvam-instruments.com</a>
-- My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing' target = '_blank'>drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing</a> .
+- 💻 You may look at my Portfolio on <a href = 'https://pfl.selvams.org' target = '_blank'>https://pfl.selvams.org</a>
+- My resume or CV or curriculum vitae is on <a href ='[https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing](https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing)' target = '_blank'>Google Drive</a> .
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>
-<a href="mailto:jagadeesh_2k17@proton.me" target = "_blank" />
+<a href="mailto:33x23@pm.me" target = "_blank" />
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/jagadeemudp/" target = "_blank" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/>
 </a>
 <!-- <a href="https://www.sololearn.com/profile/6832164">
   <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
@@ -77,7 +81,7 @@ Profile Visit Count:
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-Kumar-With-Initial-As-S&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jagadeesh-Kumar-With-Initial-As-S"/></a>
+<a href="https://github.com/JKS-sys" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=JKS-sys&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="JKS-sys"/></a>
 </p>
 
 <hr/>
@@ -90,14 +94,14 @@ Profile Visit Count:
 <hr/> -->
 
 <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" target = '_blank'>
-<img width="49%" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeesh-Kumar-With-Initial-As-S&theme=dark&theme=black-ice&stroke=0000" /></a>
+<a href="https://github.com/JKS-sys" target = '_blank'>
+<img width="49%" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=JKS-sys&theme=dark&theme=black-ice&stroke=0000" /></a>
 </p>  
 <hr/>
 
 <p align="center">
-<a href ="https://github.com/Jagadeesh-Kumar-With-Initial-As-S" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" target = '_blank'>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-Kumar-With-Initial-As-S&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<a href ="https://github.com/JKS-sys" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" target = '_blank'>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKS-sys&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>  
 <hr/>
 
