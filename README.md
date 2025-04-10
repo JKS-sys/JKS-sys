@@ -88,19 +88,19 @@ Profile Visit Count:
 
 
 <!-- <p align="center">
-<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to Jagadeesh-Kumar-Initial-Is-S's Github" target = '_blank'>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-Kumar-Initial-Is-S&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<a href="https://github.com/Jagadeesh-Kumar-Initial-Is-S" title="Redirect's to JKS's Github" target = '_blank'>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JKS-sys&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 </p>  
 <hr/> -->
 
 <p align="center">
 <a href="https://github.com/JKS-sys" target = '_blank'>
-<img width="49%" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=JKS-sys&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to JKS-sys on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=JKS-sys&theme=dark&theme=black-ice&stroke=0000" /></a>
 </p>  
 <hr/>
 
 <p align="center">
-<a href ="https://github.com/JKS-sys" title="Redirect's to Jagadeesh-Kumar-With-Initial-As-S on Github" target = '_blank'>
+<a href ="https://github.com/JKS-sys" title="Redirect's to JKS-sys on Github" target = '_blank'>
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKS-sys&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>  
 <hr/>
