@@ -4,7 +4,7 @@
 
   <!-- <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/> -->
 
-  <h1>👋 Hello, my name's Jagadeesh Kumar . S</h1>
+  <h1>👋 Hello, my name's Jagadeesh Kumar   S</h1>
     
 </div>
 <br/>
@@ -20,7 +20,7 @@ Profile Visit Count:
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
 - You may contact me through my mobile number which is +917397285837
 - 👀 I’m interested in getting a good job at this moment.
-- 🌱 I’m a Full Stack Developer.
+- 🌱 I’m a Full Stack Developer With React & Node JS.
 - 📫 You may send mail tom my email address which is 33x23@pm.me 
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
 - 🧔‍♂️ My gender is male
