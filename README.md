@@ -28,7 +28,7 @@ Profile Visit Count:
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
 - 💻 You may look at my Portfolio on <a href = 'https://pfl.selvams.org' target = '_blank'>https://pfl.selvams.org</a>
-- My resume or CV or curriculum vitae is on <a href ='[https://drive.google.com/file/d/1ks63xad9cDv9Zzio4gz00Pow6qwolE4Z/view?usp=sharing](https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing)' target = '_blank'>Google Drive</a> .
+- My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing' target = '_blank'><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff"/></a> .
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
