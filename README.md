@@ -31,10 +31,10 @@ Profile Visit Count:
 - My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing' target = '_blank'><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff"/></a> .
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"/> 
  </a>
 <a href="mailto:33x23@pm.me" target = "_blank" />
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/jagadeemudp/" target = "_blank" />
