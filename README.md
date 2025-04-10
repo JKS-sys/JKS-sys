@@ -23,7 +23,6 @@ Profile Visit Count:
 - 🌱 I’m a Full Stack Developer.
 - 📫 You may send mail tom my email address which is 33x23@pm.me 
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
-- 🧔‍♂️ My age is 27
 - 🧔‍♂️ My gender is male
 - 🤩 I’m looking to collaborate on **Full Stack Development** Projects
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
