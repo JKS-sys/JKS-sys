@@ -14,8 +14,9 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Jagadeesh-Kumar-Initial-Is-S?style=flat&label=FOLLOWERS) -->
 
 <!-- visitor count -->
-Profile Visit Count: 
-![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg)
+
+<!-- Profile Visit Count: 
+![Visitor Count](https://profile-counter.glitch.me/Jagadeesh-Kumar-Initial-Is-S/count.svg) -->
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
 - You may contact me through my mobile number which is +917397285837
