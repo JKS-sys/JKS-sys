@@ -26,7 +26,7 @@
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
 <!-- - 🧔‍♂️ My gender is male -->
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
-- 💻 You may look at my Portfolio on <a href = 'http://jks-info.info' target = '_blank'>http://jks-info.info</a> -->
+- 💻 You may look at my Portfolio on <a href = 'http://jks-info.info' target = '_blank'>http://jks-info.info</a> 
 <!-- - My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing' target = '_blank'><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff"/></a> . -->
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
