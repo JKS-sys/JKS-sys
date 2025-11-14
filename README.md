@@ -76,10 +76,10 @@
 
 <br>
 
-<!-- ## **GitHub Trophies :**
+<!-- ## **GitHub Trophies :** -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/JKS-sys" target = '_blank'><img src="https://github-profile-trophy.vercel.app/?username=JKS-sys&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="JKS-sys"/></a>
 </p> -->
 
