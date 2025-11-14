@@ -20,20 +20,19 @@
  
 <!-- - 👋 Hello, I’m Jagadeesh Kumar . S -->
 - You may contact me through my mobile number which is +917397285837
-- 👀 I’m interested in getting a good job at this moment.
+<!-- - 👀 I’m interested in getting a good job at this moment. -->
 - 🌱 I’m a Full Stack Developer With React & Node JS.
-- 📫 You may send mail tom my email address which is 33x23@pm.me 
+<!-- - 📫 You may send mail tom my email address which is 33x23@pm.me -->
 - 💬 You may ask me about HTML, JavaScript, React JS, CSS and so on.
-- 🧔‍♂️ My gender is male
-- 🤩 I’m looking to collaborate on **Full Stack Development** Projects
+<!-- - 🧔‍♂️ My gender is male -->
 - 👨‍🏭 **Master Of Computer Applications Graduate** and **Full Stack Developer** 
-- 💻 You may look at my Portfolio on <a href = 'https://pfl.selvams.org' target = '_blank'>https://pfl.selvams.org</a>
-- My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing' target = '_blank'><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff"/></a> .
+<!-- - 💻 You may look at my Portfolio on <a href = 'https://pfl.selvams.org' target = '_blank'>https://pfl.selvams.org</a> -->
+<!-- - My resume or CV or curriculum vitae is on <a href ='https://drive.google.com/file/d/1mE6zUWvBk1_-2W-GaEDKwOmAX9niPMiV/view?usp=sharing' target = '_blank'><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff"/></a> . -->
 
  <a href="https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/" target = "_blank" >
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"/> 
  </a>
-<a href="mailto:33x23@pm.me" target = "_blank" />
+<a href="mailto:jagadeesh_2k17@proton.me" target = "_blank" />
   <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff"/>
 </a>
 
