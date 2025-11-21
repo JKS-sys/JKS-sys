@@ -1,5 +1,3 @@
-Here is a humanized and polished version of your GitHub README content, written in a warm, approachable tone suitable for sharing your professional and personal details clearly:
-
 ***
 
 # 👋 Hello World!  
