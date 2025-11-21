@@ -20,7 +20,8 @@ Check out my portfolio here: [http://jks-info.info](http://jks-info.info)
 
 ### Connect with me:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logo(https://www.linkedin.com/in/jagadeesh-kumarhttps://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logo[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks(https://www.geeksforgeeks.org/user/jagade Tech Stack  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logo(https://www.linkedin.com/in/jagadeesh-kumarhttps://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logo[!
+[GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks(https://www.geeksforgeeks.org/user/jagade Tech Stack  
 
 - 🌐 HTML5, CSS3, JavaScript, Bootstrap, React, Node.js  
 - 🛢 MongoDB  
