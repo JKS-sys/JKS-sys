@@ -10,7 +10,6 @@
 - 🌱 I am a Full Stack Developer with React & Node.js
 - 💬 Ask me about HTML, JavaScript, React.js, CSS, and more
 - 👨‍🎓 Master of Computer Applications Graduate & Full Stack Developer
-- 💻 Check out my portfolio: [jks-info.info](http://jks-info.info)
 
 ---
 
