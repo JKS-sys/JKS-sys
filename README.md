@@ -1,47 +1,44 @@
 # 👋 Hi, I'm Jagadeesh Kumar S  
-### Developer & Lo-fi Beatmaker 🎧💻  
+### Developer by day, lo-fi beatmaker by night 🎧💻  
 
-I'm a **Full Stack Developer** (React, Node.js) and a **music producer** creating lo-fi beats to help you focus, study, or just vibe out.  
-When I'm not coding, I break down **GeeksforGeeks POTD** solutions with clear explanations – because sharing knowledge is cool. 😎  
+Welcome to my little corner of GitHub! I'm a **Full Stack Developer** who loves building web apps with React & Node.js. When I'm not coding, I'm creating **lo-fi beats** to help you focus, study, or just chill. I also break down **GeeksforGeeks POTD** solutions with simple explanations – because sharing knowledge is cool. 😎  
 
-🎵 **Stream my beats** and help me create more music. Every stream means a lot!  
-
----
-
-## 🎧 Latest Beats & Coding Content
-
-Subscribe to my channels for new beats and coding videos:
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](http://www.youtube.com/@JKS-sys)
-[![Spotify Podcast](https://img.shields.io/badge/Spotify%20Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/3pLQp6nVZJb)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jagadeemudp/)
+🎵 **Stream my music** and help me create more. Every listen means the world to me!  
 
 ---
 
-## 🎵 Stream My Music
-
-Support my artist journey – find my lo-fi beats on your favorite platform:
+## 🎶 My Lo-fi Beats – Find Me on  
 
 | Platform | Link |
 |----------|------|
-| ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white) | [Jagadeesh Kumar S on Spotify](https://open.spotify.com/artist/1dd0C7fpZy4Yq5m6aIwSdo) |
-| ![Apple Music](https://img.shields.io/badge/Apple%20Music-FB5C5C?logo=apple-music&logoColor=white) | [Jagadeesh Kumar S on Apple Music](https://music.apple.com/in/artist/jagadeesh-kumar-s/1880710101) |
-| ![Tidal](https://img.shields.io/badge/Tidal-000000?logo=tidal&logoColor=white) | [Jagadeesh Kumar S on Tidal](https://tidal.com/artist/75030110) |
-| ![Amazon Music](https://img.shields.io/badge/Amazon%20Music-FF9900?logo=amazon-music&logoColor=white) | [India](https://music.amazon.in/artists/B0GQ6YPB4W/jagadeesh-kumar-s) · [Global](https://music.amazon.com/artists/B0GQ6YPB4W/jagadeesh-kumar-s) |
+| ![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white) | [Jagadeesh Kumar S on Tidal](https://tidal.com/artist/75030110) |
+| ![Apple Music](https://img.shields.io/badge/Apple%20Music-FB5C5C?style=for-the-badge&logo=apple-music&logoColor=white) | [Jagadeesh Kumar S on Apple Music](https://music.apple.com/in/artist/jagadeesh-kumar-s/1880710101) |
+| ![Amazon Music](https://img.shields.io/badge/Amazon%20Music-FF9900?style=for-the-badge&logo=amazon-music&logoColor=white) | [India](https://music.amazon.in/artists/B0GQ6YPB4W/jagadeesh-kumar-s) · [Global](https://music.amazon.com/artists/B0GQ6YPB4W/jagadeesh-kumar-s) |
+| ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | [Jagadeesh Kumar S on Spotify](https://open.spotify.com/artist/1dd0C7fpZy4Yq5m6aIwSdo) |
 
-> Every stream, like, and share helps me keep creating. Thank you! 🙏
+> Every stream helps me keep creating. Thank you! 🙏  
 
 ---
 
-## 🧑‍💻 About Me (the dev side)
+## 📺 Latest Videos & Podcasts  
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](http://www.youtube.com/@JKS-sys)  
+[![Spotify Podcast](https://img.shields.io/badge/Spotify%20Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/3pLQp6nVZJb)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jagadeemudp/)  
+
+Subscribe for new beats & coding content!  
+
+---
+
+## 🧑‍💻 About Me (The Dev Side)  
 
 - 🎓 **Master of Computer Applications** graduate  
-- 💼 **Full Stack Developer** specializing in React & Node.js  
+- 💼 **Full Stack Developer** (React, Node.js, MongoDB)  
 - 🌱 Always learning and building cool stuff  
-- 💬 Ask me about HTML, CSS, JavaScript, React, Node, MongoDB  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, MongoDB**  
 - 📫 Reach me: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917397285837) `+91 73972 85837`  
 
-### Let's Connect
+### Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-kumar-s-b6995a245/)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:jagadeesh_2k17@proton.me)
@@ -49,7 +46,7 @@ Support my artist journey – find my lo-fi beats on your favorite platform:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -69,7 +66,7 @@ Support my artist journey – find my lo-fi beats on your favorite platform:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKS-sys&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -78,10 +75,10 @@ Support my artist journey – find my lo-fi beats on your favorite platform:
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On  
 
 - 🎶 Producing my next lo-fi EP – stay tuned!  
-- 📝 Writing clear, beginner-friendly solutions for GeeksforGeeks POTD  
+- 📝 Writing beginner-friendly solutions for GeeksforGeeks POTD  
 - 💻 Building full-stack web apps with React & Node  
 
 ---
@@ -89,4 +86,4 @@ Support my artist journey – find my lo-fi beats on your favorite platform:
 > **"Code with rhythm, create with passion."**  
 > Got a project idea or just want to chat about music and code? Ping me on [WhatsApp](https://wa.me/917397285837) or [email](mailto:jagadeesh_2k17@proton.me)!  
 
-**Thanks for stopping by!** If you like my work, consider streaming my music or subscribing to my YouTube channel. Every bit of support fuels my creativity. 🎧❤️
+**Thanks for stopping by!** If you like my work, consider streaming my music or subscribing to my YouTube channel. Your support fuels my creativity. 🎧❤️
