@@ -5,6 +5,8 @@ I create websites, desktop apps, 4K videos, music and books.
 
 🎵 [SoundCloud](https://soundcloud.com/jagadeeshkumars) · 📺 [YouTube](https://www.youtube.com/@JKS-sys) · 🌐 [Website](https://ipconfig.co.network/) · 📄 [CV](https://ipconfig.co.network/resume.pdf?v=0b3b6bce0c)
 
+> **If my apps help you, please ⭐ star their [repositories](https://github.com/JKS-sys?tab=repositories) — it helps other people find them.**
+
 ## 🚀 Projects
 
 - 🌐 [ipconfig.co.network](https://ipconfig.co.network/) — network tools & shop  
@@ -13,3 +15,7 @@ I create websites, desktop apps, 4K videos, music and books.
 - 📚 [Books](https://www.amazon.com/stores/Jagadeesh-Kumar-S/author/B0HDV3KWV2)  
 
 ✉️ [JKS.sys@icloud.com](mailto:JKS.sys@icloud.com)
+
+---
+
+> **If my apps help you, please ⭐ star their [repositories](https://github.com/JKS-sys?tab=repositories) — it helps other people find them.**
