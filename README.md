@@ -10,9 +10,10 @@ I create websites, desktop apps, 4K videos, music and books.
 ## 🚀 Projects
 
 - 🌐 [ipconfig.co.network](https://ipconfig.co.network/) — network tools & shop  
+- 🗄 [DBHub](https://dbhub.co.technology/) — MySQL databases, static sites, PHP & Node.js hosting · start free  
 - 🖥 11 desktop apps: [Peek](https://ipconfig.co.network/peek) · [Voxo](https://ipconfig.co.network/voxo) · [Nib](https://ipconfig.co.network/nib) · [Keel](https://ipconfig.co.network/keel) · [Swep](https://ipconfig.co.network/swep) · [Grab](https://ipconfig.co.network/grab) · [Dial](https://ipconfig.co.network/dial) · [Mend](https://ipconfig.co.network/mend) · [Twig](https://ipconfig.co.network/twig) · [Cine](https://ipconfig.co.network/cine) · [Veil](https://ipconfig.co.network/veil)  
 - 🎥 [NewsCraft Studio](https://www.youtube.com/@JKS-sys)  
-- 📚 [Books](https://www.amazon.com/stores/Jagadeesh-Kumar-S/author/B0HDV3KWV2)  
+- 📚 [6 books on Amazon](https://www.amazon.com/stores/Jagadeesh-Kumar-S/author/B0HDV3KWV2) · [all of them](https://ipconfig.co.network/books)  
 
 ✉️ [JKS.sys@icloud.com](mailto:JKS.sys@icloud.com)
 
